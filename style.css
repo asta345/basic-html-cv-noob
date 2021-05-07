@@ -1,0 +1,20 @@
+
+				body{background-color:lightcyan;
+				
+				}
+				hr{border-color: grey;
+					border-style: none;
+					border-bottom-style: dotted ;
+					border-width:8px;
+				width:03%;
+				}
+				img{ 
+					background-color: red;
+					height:130px;
+
+                }
+                h1{
+                    color: crimson;
+                    
+
+                }
